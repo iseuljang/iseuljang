@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0%:D26B94,100%:76B2D4&text=Hello!%20I'm%20ISEUL&fontColor=FFFFFF">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0%:D26B94,100%:76B2D4&text=Hello!&fontColor=FFFFFF">
 
 <!--
 ## Hi there 👋
@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseuljang&layout=compact)](https://github.com/iseuljang/github-readme-stats)
 
 <h3 align="left">✨ Tech Stack ✨</h3>
 <div align="left">  
@@ -69,13 +74,17 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+<hr>
+
 <!-- {handle} 에 백준 아이디 입력하면 됨
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iseuljang&theme=vue&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseuljang&layout=compact)](https://github.com/iseuljang/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iseuljang&theme=transparent&show_icons=true)
+
+<hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiseuljang&count_bg=%236B8FD2&title_bg=%236B8FD2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

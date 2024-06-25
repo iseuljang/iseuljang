@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0%:D26B94,100%:76B2D4&text=Hello!&fontColor=FFFFFF">
+<!-- <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0%:D26B94,100%:76B2D4&text=Hello!&fontColor=FFFFFF"> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%:D26B94,100%:76B2D4&text=Hello!&fontColor=FFFFFF">
 
 <!--
 ## Hi there 👋
@@ -76,12 +78,9 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-<!-- {handle} 에 백준 아이디 입력하면 됨  -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyr0204)](https://solved.ac/gyr0204)
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iseuljang&theme=transparent&show_icons=true)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyr0204)](https://solved.ac/gyr0204)
 
 <hr>
 

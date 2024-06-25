@@ -77,9 +77,7 @@ Here are some ideas to get you started:
 <hr>
 
 <!-- {handle} 에 백준 아이디 입력하면 됨  -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyr0204)](https://solved.ac/gyr0204)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyr0204)](https://solved.ac/gyr0204)
 
 
 

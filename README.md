@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iseuljang&theme=transparent&show_icons=true)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyr0204)](https://solved.ac/gyr0204)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyr0204)](https://solved.ac/gyr0204/)
 
 <hr>
 

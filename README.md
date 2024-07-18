@@ -83,7 +83,12 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iseuljang&theme=transparent&show_icons=true)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyr0204)](https://solved.ac/gyr0204/)
 
-# Blog posts
+## 📕 Latest Blog Posts
+<p>
+    <a href="https://systorage.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
+</p>
+
+
 <!-- BLOG-POST-LIST:START -->
 - [백준 [Java] 8393번 합](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-8393%EB%B2%88-%ED%95%A9)
 - [백준 [Java] 10950번 A+B - 3](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-10950%EB%B2%88-AB-3)

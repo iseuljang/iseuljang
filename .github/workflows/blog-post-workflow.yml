@@ -17,3 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://sgktn0204.tistory.com/rss"
+          accept: "text/xml"
+          user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+          max_post_count: "5"
+          

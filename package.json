@@ -1,0 +1,7 @@
+{
+"main": "readmeUpdate.js",
+  "type": "module",
+  "scripts": {
+    "start": "node readmeUpdate.js"
+  }
+}

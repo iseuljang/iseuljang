@@ -90,11 +90,11 @@ Here are some ideas to get you started:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [[Java] 자바 기초](https://sgktn0204.tistory.com/entry/Java-%EC%9E%90%EB%B0%94-%EA%B8%B0%EC%B4%88)
 - [백준 [Java] 8393번 합](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-8393%EB%B2%88-%ED%95%A9)
 - [백준 [Java] 10950번 A+B - 3](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-10950%EB%B2%88-AB-3)
 - [백준 [Java] 2739번 구구단](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-2739%EB%B2%88-%EA%B5%AC%EA%B5%AC%EB%8B%A8)
 - [[Spring Boot] 스프링부트 프로젝트 생성하는 방법 2가지](https://sgktn0204.tistory.com/entry/Spring-Boot-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2%EA%B0%80%EC%A7%80)
-- [백준 [Java] 2480번 주사위 세개](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-2480%EB%B2%88-%EC%A3%BC%EC%82%AC%EC%9C%84-%EC%84%B8%EA%B0%9C)
 <!-- BLOG-POST-LIST:END -->
 
 

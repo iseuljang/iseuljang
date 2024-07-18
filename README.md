@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 <p>
-    <a href="https://systorage.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
+    <a href="https://sgktn0204.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
 </p>
 
 

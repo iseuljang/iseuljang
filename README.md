@@ -97,16 +97,12 @@ Here are some ideas to get you started:
 
 
 
+
 <hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiseuljang&count_bg=%236B8FD2&title_bg=%236B8FD2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-### Latest Blog Posts
 
-- [[Java] 변수와 타입](https://sgktn0204.tistory.com/entry/Java-%EB%B3%80%EC%88%98%EC%99%80-%ED%83%80%EC%9E%85)
-- [[Java] 자바 시작](https://sgktn0204.tistory.com/entry/Java-%EC%9E%90%EB%B0%94-%EA%B8%B0%EC%B4%88)
-- [백준 [Java] 8393번 합](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-8393%EB%B2%88-%ED%95%A9)
-- [백준 [Java] 10950번 A+B - 3](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-10950%EB%B2%88-AB-3)
-- [백준 [Java] 2739번 구구단](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-2739%EB%B2%88-%EA%B5%AC%EA%B5%AC%EB%8B%A8)
+
 

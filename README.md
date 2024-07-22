@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Java] 대입연산자, 삼항연산자(조건연산자)](https://sgktn0204.tistory.com/entry/Java-%EB%8C%80%EC%9E%85%EC%97%B0%EC%82%B0%EC%9E%90-%EC%82%BC%ED%95%AD%EC%97%B0%EC%82%B0%EC%9E%90%EC%A1%B0%EA%B1%B4%EC%97%B0%EC%82%B0%EC%9E%90)
+- [[Java] 비트연산자](https://sgktn0204.tistory.com/entry/Java-%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0%EC%9E%90)
+- [[Java] 논리연산자](https://sgktn0204.tistory.com/entry/Java-%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90)
 - [[Java] 산술연산자, 증감연산자, 비교연산자](https://sgktn0204.tistory.com/entry/Java-%EC%82%B0%EC%88%A0%EC%97%B0%EC%82%B0%EC%9E%90-%EC%A6%9D%EA%B0%90%EC%97%B0%EC%82%B0%EC%9E%90-%EB%B9%84%EA%B5%90%EC%97%B0%EC%82%B0%EC%9E%90)
 - [[Java] 변수와 타입](https://sgktn0204.tistory.com/entry/Java-%EB%B3%80%EC%88%98%EC%99%80-%ED%83%80%EC%9E%85)
-- [[Java] 자바 시작](https://sgktn0204.tistory.com/entry/Java-%EC%9E%90%EB%B0%94-%EA%B8%B0%EC%B4%88)
-- [백준 [Java] 8393번 합](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-8393%EB%B2%88-%ED%95%A9)
-- [백준 [Java] 10950번 A+B - 3](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-10950%EB%B2%88-AB-3)
 

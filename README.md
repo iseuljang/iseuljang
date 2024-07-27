@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Java] null, NullPointerException, 참조타입](https://sgktn0204.tistory.com/entry/Java-null-NullPointerException-%EC%B0%B8%EC%A1%B0%ED%83%80%EC%9E%85)
 - [[Java] Scanner, while, do-while, break, continue](https://sgktn0204.tistory.com/entry/Java-Scanner-while-do-while-break-continue)
 - [[Java] for, 이중 for문](https://sgktn0204.tistory.com/entry/Java-for)
 - [[Java] switch case](https://sgktn0204.tistory.com/entry/Java-switch-case)
 - [[Java] if, else, else if, 중첩 if](https://sgktn0204.tistory.com/entry/Java-if-else-else-if-%EC%A4%91%EC%B2%A9-if)
-- [[Java] 대입연산자, 삼항연산자(조건연산자)](https://sgktn0204.tistory.com/entry/Java-%EB%8C%80%EC%9E%85%EC%97%B0%EC%82%B0%EC%9E%90-%EC%82%BC%ED%95%AD%EC%97%B0%EC%82%B0%EC%9E%90%EC%A1%B0%EA%B1%B4%EC%97%B0%EC%82%B0%EC%9E%90)
 

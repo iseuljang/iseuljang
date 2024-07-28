@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Java] String, String이 제공하는 기능들](https://sgktn0204.tistory.com/entry/Java-String-String%EC%9D%B4-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EA%B8%B0%EB%8A%A5%EB%93%A4)
 - [[Java] null, NullPointerException, 참조타입](https://sgktn0204.tistory.com/entry/Java-null-NullPointerException-%EC%B0%B8%EC%A1%B0%ED%83%80%EC%9E%85)
 - [[Java] Scanner, while, do-while, break, continue](https://sgktn0204.tistory.com/entry/Java-Scanner-while-do-while-break-continue)
 - [[Java] for, 이중 for문](https://sgktn0204.tistory.com/entry/Java-for)
 - [[Java] switch case](https://sgktn0204.tistory.com/entry/Java-switch-case)
-- [[Java] if, else, else if, 중첩 if](https://sgktn0204.tistory.com/entry/Java-if-else-else-if-%EC%A4%91%EC%B2%A9-if)
 

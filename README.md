@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [Visual Studio Code 설치 및 설정, 확장프로그램 설치, 단축키](https://sgktn0204.tistory.com/entry/Visual-Studio-Code-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95-%ED%99%95%EC%9E%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98-%EB%8B%A8%EC%B6%95%ED%82%A4)
+- [[HTML] web, &lt;h1&gt;~&lt;h6&gt;,&lt;p&gt;,&lt;pre&gt; 태그](https://sgktn0204.tistory.com/entry/HTML-web-h1h6ppre-%ED%83%9C%EA%B7%B8)
 - [[Java] 인스턴스 멤버, 정적 멤버, 정적 필드, 정적 메소드, 상수, 패키지, 접근제한자, 싱글톤](https://sgktn0204.tistory.com/entry/Java-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%A9%A4%EB%B2%84-%EC%A0%95%EC%A0%81-%EB%A9%A4%EB%B2%84-%EC%A0%95%EC%A0%81-%ED%95%84%EB%93%9C-%EC%A0%95%EC%A0%81-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%83%81%EC%88%98-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90-%EC%8B%B1%EA%B8%80%ED%86%A4)
 - [[Java] class, 필드, 생성자, 메소드, 오버로딩](https://sgktn0204.tistory.com/entry/Java-class-%ED%95%84%EB%93%9C-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9)
 - [백준 [Java] 25314번 코딩은 체육과목 입니다](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-25314%EB%B2%88-%EC%BD%94%EB%94%A9%EC%9D%80-%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9-%EC%9E%85%EB%8B%88%EB%8B%A4)
-- [백준 [Java] 25304번 영수증](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-25304%EB%B2%88-%EC%98%81%EC%88%98%EC%A6%9D)
-- [[Java] 배열, 향상된 for문, 열거](https://sgktn0204.tistory.com/entry/Java-%EB%B0%B0%EC%97%B4-%ED%96%A5%EC%83%81%EB%90%9C-for%EB%AC%B8-%EC%97%B4%EA%B1%B0)
 

@@ -54,7 +54,8 @@ Here are some ideas to get you started:
 <h3 align="left">📚 Studying 📚</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Java-D90C0F?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
-
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
+  
   <!--
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp  
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp  

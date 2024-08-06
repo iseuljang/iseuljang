@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Java] 인터페이스](https://sgktn0204.tistory.com/entry/Java-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
 - [백준 [Java] 11022번 A+B-8](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-11022%EB%B2%88-AB-8)
 - [백준 [Java] 11021번 A+B-7](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-11021%EB%B2%88-AB-7)
 - [백준 [Java] 15552번 빠른 A+B](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-15552%EB%B2%88-%EB%B9%A0%EB%A5%B8-AB)
 - [[Java] 상속, 메소드 오버라이딩, 추상클래스](https://sgktn0204.tistory.com/entry/Java-%EC%83%81%EC%86%8D-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9-%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4)
-- [Visual Studio Code 설치 및 설정, 확장프로그램 설치, 단축키](https://sgktn0204.tistory.com/entry/Visual-Studio-Code-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95-%ED%99%95%EC%9E%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98-%EB%8B%A8%EC%B6%95%ED%82%A4)
 

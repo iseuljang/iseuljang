@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Java] toString(), StringBuilder, StringTokenizer, Math, Wrapper](https://sgktn0204.tistory.com/entry/Java-toString-StringBuilder-StringTokenizer-Math-Wrapper)
 - [[Java] Object, equals(), hashCode()](https://sgktn0204.tistory.com/entry/Java-Object-equals-hashCode)
 - [[Java] 예외처리](https://sgktn0204.tistory.com/entry/Java-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
 - [[Java] 익명 객체, 다중인터페이스](https://sgktn0204.tistory.com/entry/Java-%EC%9D%B5%EB%AA%85-%EA%B0%9D%EC%B2%B4-%EB%8B%A4%EC%A4%91%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
 - [[Java] 인터페이스](https://sgktn0204.tistory.com/entry/Java-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
-- [백준 [Java] 11022번 A+B-8](https://sgktn0204.tistory.com/entry/%EB%B0%B1%EC%A4%80-Java-11022%EB%B2%88-AB-8)
 

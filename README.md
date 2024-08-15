@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Java] 제네릭 타입](https://sgktn0204.tistory.com/entry/Java-%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%83%80%EC%9E%85)
 - [[Java] 제네릭](https://sgktn0204.tistory.com/entry/Java-%EC%A0%9C%EB%84%A4%EB%A6%AD)
 - [[Java] Date, SimpleDateFormat, Calendar](https://sgktn0204.tistory.com/entry/Java-Date-SimpleDateFormat-Calendar)
 - [[Java] toString(), StringBuilder, StringTokenizer, Math, Wrapper](https://sgktn0204.tistory.com/entry/Java-toString-StringBuilder-StringTokenizer-Math-Wrapper)
 - [[Java] Object, equals(), hashCode()](https://sgktn0204.tistory.com/entry/Java-Object-equals-hashCode)
-- [[Java] 예외처리](https://sgktn0204.tistory.com/entry/Java-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
 

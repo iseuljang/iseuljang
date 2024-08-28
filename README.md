@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[JQUERY] 다운받기](https://sgktn0204.tistory.com/entry/JQUERY-%EB%8B%A4%EC%9A%B4%EB%B0%9B%EA%B8%B0)
 - [[Java] 람다식](https://sgktn0204.tistory.com/entry/Java-%EB%9E%8C%EB%8B%A4%EC%8B%9D)
 - [[JavaScript] onclick으로 버튼 눌러 내용 바꾸기](https://sgktn0204.tistory.com/entry/JavaScript-onclick%EC%9C%BC%EB%A1%9C-%EB%B2%84%ED%8A%BC-%EB%88%8C%EB%9F%AC-%EB%82%B4%EC%9A%A9-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 - [[Java] Map](https://sgktn0204.tistory.com/entry/Java-Map)
 - [[Java] set 연습](https://sgktn0204.tistory.com/entry/Java-set-%EC%97%B0%EC%8A%B5)
-- [[JavaScript] 계산기 focus(), onblur, onclick,onchange](https://sgktn0204.tistory.com/entry/JavaScript-%EA%B3%84%EC%82%B0%EA%B8%B0-focus-onblur-onclickonchange)
 

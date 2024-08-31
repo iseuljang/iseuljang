@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[MySQL] 유저 생성, 권한 부여](https://sgktn0204.tistory.com/entry/MySQL-%EC%9C%A0%EC%A0%80-%EC%83%9D%EC%84%B1-%EA%B6%8C%ED%95%9C-%EB%B6%80%EC%97%AC)
 - [[MySQL] DB, DBMS, SQL, 정규화](https://sgktn0204.tistory.com/entry/MySQL-DB-DBMS-SQL-%EC%A0%95%EA%B7%9C%ED%99%94)
 - [[JQUERY] 다운받기](https://sgktn0204.tistory.com/entry/JQUERY-%EB%8B%A4%EC%9A%B4%EB%B0%9B%EA%B8%B0)
 - [[Java] 람다식](https://sgktn0204.tistory.com/entry/Java-%EB%9E%8C%EB%8B%A4%EC%8B%9D)
 - [[JavaScript] onclick으로 버튼 눌러 내용 바꾸기](https://sgktn0204.tistory.com/entry/JavaScript-onclick%EC%9C%BC%EB%A1%9C-%EB%B2%84%ED%8A%BC-%EB%88%8C%EB%9F%AC-%EB%82%B4%EC%9A%A9-%EB%B0%94%EA%BE%B8%EA%B8%B0)
-- [[Java] Map](https://sgktn0204.tistory.com/entry/Java-Map)
 

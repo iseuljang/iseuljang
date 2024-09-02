@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[MySQL] DML 데이터조작어 SELECT문](https://sgktn0204.tistory.com/entry/MySQL-DML-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A1%B0%EC%9E%91%EC%96%B4-SELECT%EB%AC%B8)
 - [[MySQL] DML 데이터조작어  INSERT문](https://sgktn0204.tistory.com/entry/MySQL-DML-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A1%B0%EC%9E%91%EC%96%B4-INSERT%EB%AC%B8)
 - [[MySQL] DDL 데이터 정의어](https://sgktn0204.tistory.com/entry/MySQL-DDL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%95%EC%9D%98%EC%96%B4)
 - [[MySQL] 유저 생성, 권한 부여](https://sgktn0204.tistory.com/entry/MySQL-%EC%9C%A0%EC%A0%80-%EC%83%9D%EC%84%B1-%EA%B6%8C%ED%95%9C-%EB%B6%80%EC%97%AC)
 - [[MySQL] DB, DBMS, SQL, 정규화](https://sgktn0204.tistory.com/entry/MySQL-DB-DBMS-SQL-%EC%A0%95%EA%B7%9C%ED%99%94)
-- [[JQUERY] 다운받기](https://sgktn0204.tistory.com/entry/JQUERY-%EB%8B%A4%EC%9A%B4%EB%B0%9B%EA%B8%B0)
 

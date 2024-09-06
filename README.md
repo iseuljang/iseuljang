@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[MySQL] 조인](https://sgktn0204.tistory.com/entry/MySQL-%EC%A1%B0%EC%9D%B8)
 - [[MySQL] 기존 테이블 복사, GROUP BY](https://sgktn0204.tistory.com/entry/MySQL-%EA%B8%B0%EC%A1%B4-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%B3%B5%EC%82%AC-GROUP-BY)
 - [[MySQL] DML 데이터조작어 UPDATE, DELETE](https://sgktn0204.tistory.com/entry/MySQL-DML-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A1%B0%EC%9E%91%EC%96%B4-UPDATE-DELETE)
 - [[MySQL] SELECT문 WHERE BETWEEN, IN(),LIKE, 서브쿼리](https://sgktn0204.tistory.com/entry/MySQL-SELECT%EB%AC%B8-WHERE-BETWEEN-INLIKE-%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC)
 - [[MySQL] DML 데이터조작어 SELECT문](https://sgktn0204.tistory.com/entry/MySQL-DML-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A1%B0%EC%9E%91%EC%96%B4-SELECT%EB%AC%B8)
-- [[MySQL] DML 데이터조작어  INSERT문](https://sgktn0204.tistory.com/entry/MySQL-DML-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A1%B0%EC%9E%91%EC%96%B4-INSERT%EB%AC%B8)
 

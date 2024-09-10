@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Ajax] XML과 Json 데이터 Ajax로 다루기](https://sgktn0204.tistory.com/entry/Ajax-XML%EA%B3%BC-Json-%EB%8D%B0%EC%9D%B4%ED%84%B0-Ajax%EB%A1%9C-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 - [[Ajax] jQuery를 사용하여 Ajax 사용](https://sgktn0204.tistory.com/entry/Ajax-jQuery%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-Ajax-%EC%82%AC%EC%9A%A9)
 - [[Ajax] 자바스크립트를 사용하여 Ajax 사용](https://sgktn0204.tistory.com/entry/Ajax-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-Ajax-%EC%82%AC%EC%9A%A9)
 - [[MySQL] 함수](https://sgktn0204.tistory.com/entry/MySQL-%ED%95%A8%EC%88%98)
 - [[MySQL] 조인](https://sgktn0204.tistory.com/entry/MySQL-%EC%A1%B0%EC%9D%B8)
-- [[MySQL] 기존 테이블 복사, GROUP BY](https://sgktn0204.tistory.com/entry/MySQL-%EA%B8%B0%EC%A1%B4-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%B3%B5%EC%82%AC-GROUP-BY)
 

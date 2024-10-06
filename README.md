@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[JSP] 모델1로 회원가입하기](https://sgktn0204.tistory.com/entry/JSP-%EB%AA%A8%EB%8D%B81%EB%A1%9C-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%ED%95%98%EA%B8%B0)
 - [[JSP]모델 1](https://sgktn0204.tistory.com/entry/JSP%EB%AA%A8%EB%8D%B8-1)
 - [[Semantic]](https://sgktn0204.tistory.com/entry/Semantic)
 - [[Ajax] Ajax를 활용하여 요청페이지로 파라미터 보내기](https://sgktn0204.tistory.com/entry/Ajax-Ajax%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9A%94%EC%B2%AD%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A1%9C-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EB%B3%B4%EB%82%B4%EA%B8%B0)
 - [[Ajax] XML과 Json 데이터 Ajax로 다루기](https://sgktn0204.tistory.com/entry/Ajax-XML%EA%B3%BC-Json-%EB%8D%B0%EC%9D%B4%ED%84%B0-Ajax%EB%A1%9C-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
-- [[Ajax] jQuery를 사용하여 Ajax 사용](https://sgktn0204.tistory.com/entry/Ajax-jQuery%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-Ajax-%EC%82%AC%EC%9A%A9)
 

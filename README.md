@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[JSP] 회원정보 조회하고 수정하기](https://sgktn0204.tistory.com/entry/JSP-%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B3%A0-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0)
 - [[Servlet] 모델2 MVC](https://sgktn0204.tistory.com/entry/JSP-%EB%AA%A8%EB%8D%B82-MVC)
 - [[JSP] 모델1로 회원가입하기](https://sgktn0204.tistory.com/entry/JSP-%EB%AA%A8%EB%8D%B81%EB%A1%9C-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%ED%95%98%EA%B8%B0)
 - [[JSP]모델 1](https://sgktn0204.tistory.com/entry/JSP%EB%AA%A8%EB%8D%B8-1)
 - [[Semantic]](https://sgktn0204.tistory.com/entry/Semantic)
-- [[Ajax] Ajax를 활용하여 요청페이지로 파라미터 보내기](https://sgktn0204.tistory.com/entry/Ajax-Ajax%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9A%94%EC%B2%AD%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A1%9C-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EB%B3%B4%EB%82%B4%EA%B8%B0)
 

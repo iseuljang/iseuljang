@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Servlet] 로그인한 회원의 회원 정보 조회](https://sgktn0204.tistory.com/entry/Servlet-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%95%9C-%ED%9A%8C%EC%9B%90%EC%9D%98-%ED%9A%8C%EC%9B%90-%EC%A0%95%EB%B3%B4-%EC%A1%B0%ED%9A%8C)
 - [[Servlet] 로그인 처리](https://sgktn0204.tistory.com/entry/Servlet-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC)
 - [[JSP] 회원정보 조회하고 수정하기](https://sgktn0204.tistory.com/entry/JSP-%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B3%A0-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0)
 - [[Servlet] 모델2 MVC](https://sgktn0204.tistory.com/entry/JSP-%EB%AA%A8%EB%8D%B82-MVC)
 - [[JSP] 모델1로 회원가입하기](https://sgktn0204.tistory.com/entry/JSP-%EB%AA%A8%EB%8D%B81%EB%A1%9C-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%ED%95%98%EA%B8%B0)
-- [[JSP]모델 1](https://sgktn0204.tistory.com/entry/JSP%EB%AA%A8%EB%8D%B8-1)
 

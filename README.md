@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[JS] 다크모드, 라이트모드](https://sgktn0204.tistory.com/entry/JS-%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C-%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%AA%A8%EB%93%9C)
 - [[Servlet] FrontController 회원 로그인, 내정보조회 등](https://sgktn0204.tistory.com/entry/Servlet-FrontController-%ED%9A%8C%EC%9B%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%82%B4%EC%A0%95%EB%B3%B4%EC%A1%B0%ED%9A%8C-%EB%93%B1)
 - [[Servlet] FrontController 게시글 수정하기 삭제하기](https://sgktn0204.tistory.com/entry/Servlet-FrontController-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
 - [[Servlet] FrontController 게시글 상세 조회](https://sgktn0204.tistory.com/entry/Servlet-FrontController-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8-%EC%A1%B0%ED%9A%8C)
 - [[Servlet] FrontController 글 목록 조회](https://sgktn0204.tistory.com/entry/Servlet-FrontController-%EA%B8%80-%EB%AA%A9%EB%A1%9D-%EC%A1%B0%ED%9A%8C)
-- [[Servlet] Front Controller](https://sgktn0204.tistory.com/entry/Servlet-Front-Controller)
 

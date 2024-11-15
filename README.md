@@ -96,14 +96,3 @@ Here are some ideas to get you started:
 - [[JS] 다크모드, 라이트모드](https://sgktn0204.tistory.com/entry/JS-%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C-%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%AA%A8%EB%93%9C)
 - [[Servlet] FrontController 회원 로그인, 내정보조회 등](https://sgktn0204.tistory.com/entry/Servlet-FrontController-%ED%9A%8C%EC%9B%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%82%B4%EC%A0%95%EB%B3%B4%EC%A1%B0%ED%9A%8C-%EB%93%B1)
 
-<br>
-<hr>
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/iseuljang"
-  width="600"
-  height="300"
-/>
-</a>
-

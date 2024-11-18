@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Spring] 스프링 프레임워크, 세터주입, 생성자 주입, 의존성 주입](https://sgktn0204.tistory.com/entry/Spring-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%84%B8%ED%84%B0%EC%A3%BC%EC%9E%85-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%A3%BC%EC%9E%85-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85)
 - [[Ajax] 인덱스 페이지 무한스크롤](https://sgktn0204.tistory.com/entry/Ajax-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4)
 - [[JS] 헤더부분 아이콘에 마우스 올라갈때 안내바나오고 원모양 나오게하기](https://sgktn0204.tistory.com/entry/JS-%ED%97%A4%EB%8D%94%EB%B6%80%EB%B6%84-%EC%95%84%EC%9D%B4%EC%BD%98%EC%97%90-%EB%A7%88%EC%9A%B0%EC%8A%A4-%EC%98%AC%EB%9D%BC%EA%B0%88%EB%95%8C-%EC%95%88%EB%82%B4%EB%B0%94%EB%82%98%EC%98%A4%EA%B3%A0-%EC%9B%90%EB%AA%A8%EC%96%91-%EB%82%98%EC%98%A4%EA%B2%8C%ED%95%98%EA%B8%B0)
 - [[JS] 회원가입,로그인 모달창에서 하기](https://sgktn0204.tistory.com/entry/JS-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%AA%A8%EB%8B%AC%EC%B0%BD%EC%97%90%EC%84%9C-%ED%95%98%EA%B8%B0)
 - [[CSS] 메뉴버튼 위로 마우스가 올라가면 옆에 안내바 나타내기](https://sgktn0204.tistory.com/entry/CSS-%EB%A9%94%EB%89%B4%EB%B2%84%ED%8A%BC-%EC%9C%84%EB%A1%9C-%EB%A7%88%EC%9A%B0%EC%8A%A4%EA%B0%80-%EC%98%AC%EB%9D%BC%EA%B0%80%EB%A9%B4-%EC%98%86%EC%97%90-%EC%95%88%EB%82%B4%EB%B0%94-%EB%82%98%ED%83%80%EB%82%B4%EA%B8%B0)
-- [[JS] 다크모드, 라이트모드](https://sgktn0204.tistory.com/entry/JS-%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C-%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%AA%A8%EB%93%9C)
 

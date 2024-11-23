@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Spring] AOP 어노테이션](https://sgktn0204.tistory.com/entry/Spring-AOP-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98)
 - [[Spring] joinpoint](https://sgktn0204.tistory.com/entry/Spring-joinpoint)
 - [[Spring] AOP](https://sgktn0204.tistory.com/entry/Spring-AOP)
 - [[Spring] 어노테이션(@)](https://sgktn0204.tistory.com/entry/Spring-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98)
 - [[Spring] 스프링 프레임워크, 세터주입, 생성자 주입, 의존성 주입](https://sgktn0204.tistory.com/entry/Spring-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%84%B8%ED%84%B0%EC%A3%BC%EC%9E%85-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%A3%BC%EC%9E%85-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85)
-- [[Ajax] 인덱스 페이지 무한스크롤](https://sgktn0204.tistory.com/entry/Ajax-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4)
 

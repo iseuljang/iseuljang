@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Spring] Spring MVC](https://sgktn0204.tistory.com/entry/Spring-Spring-MVC)
 - [[JSP] EL &amp; JSTL](https://sgktn0204.tistory.com/entry/JSP-EL-JSTL)
 - [[Spring] @Controller](https://sgktn0204.tistory.com/entry/Spring-Controller)
 - [[Spring] 스프링 MVC 프로젝트](https://sgktn0204.tistory.com/entry/Spring-%EC%8A%A4%ED%94%84%EB%A7%81-MVC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - [[Spring] AOP 어노테이션](https://sgktn0204.tistory.com/entry/Spring-AOP-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98)
-- [[Spring] joinpoint](https://sgktn0204.tistory.com/entry/Spring-joinpoint)
 

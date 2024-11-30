@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Spring] AJAX 여러건의 데이터 받기](https://sgktn0204.tistory.com/entry/Spring-AJAX-%EC%97%AC%EB%9F%AC%EA%B1%B4%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B0%9B%EA%B8%B0)
 - [[Spring] AJAX 한 건의 데이터 받기](https://sgktn0204.tistory.com/entry/Spring-AJAX-%ED%95%9C-%EA%B1%B4%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B0%9B%EA%B8%B0)
 - [[Spring] MVC 연습](https://sgktn0204.tistory.com/entry/Spring-MVC-%EC%97%B0%EC%8A%B5)
 - [[Spring] Spring MVC](https://sgktn0204.tistory.com/entry/Spring-Spring-MVC)
 - [[JSP] EL &amp; JSTL](https://sgktn0204.tistory.com/entry/JSP-EL-JSTL)
-- [[Spring] @Controller](https://sgktn0204.tistory.com/entry/Spring-Controller)
 

@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
+- [[Spring] 스케줄러(Scheduler),시큐리티(Security)](https://sgktn0204.tistory.com/entry/Spring-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%ACScheduler%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0Security)
 - [[Spring] 필터(filter)](https://sgktn0204.tistory.com/entry/Spring-%ED%95%84%ED%84%B0filter)
 - [[Spring] 인터셉터(interceptor)](https://sgktn0204.tistory.com/entry/Spring-%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0interceptor)
 - [[Spring] 파일 업로드](https://sgktn0204.tistory.com/entry/Spring-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C)
 - [[Spring] AJAX 여러건의 데이터 받기](https://sgktn0204.tistory.com/entry/Spring-AJAX-%EC%97%AC%EB%9F%AC%EA%B1%B4%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B0%9B%EA%B8%B0)
-- [[Spring] AJAX 한 건의 데이터 받기](https://sgktn0204.tistory.com/entry/Spring-AJAX-%ED%95%9C-%EA%B1%B4%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B0%9B%EA%B8%B0)
 

@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<hr>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseuljang&layout=compact)](https://github.com/iseuljang/github-readme-stats)
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<hr>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iseuljang&theme=transparent&show_icons=true)

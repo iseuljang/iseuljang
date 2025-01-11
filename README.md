@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Ajax-3186C0.svg?style=for-the-badge&logo=Ajax&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>&nbsp  
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </div>
 
 <br>

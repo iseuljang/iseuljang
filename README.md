@@ -1,6 +1,6 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0%:D26B94,100%:76B2D4&text=Hello!&fontColor=FFFFFF"> -->
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%:D26B94,100%:76B2D4&text=Hello!&fontColor=FFFFFF"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%:D26B94,100%:76B2D4&text=Hello!&fontColor=FFFFFF">
 
 <!--
 ## Hi there 👋

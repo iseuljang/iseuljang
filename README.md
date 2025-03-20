@@ -1,6 +1,8 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0%:D26B94,100%:76B2D4&text=Hello!&fontColor=FFFFFF"> -->
 
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%:D26B94,100%:76B2D4&text=Hello!&fontColor=FFFFFF">
+-->
 
 <!--
 ## Hi there 👋
@@ -18,11 +20,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseuljang&layout=compact)](https://github.com/iseuljang/github-readme-stats)
 
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iseuljang&theme=transparent&show_icons=true)
-
+-->
 
 <h3 align="left">✨ Tech Stack ✨</h3>
 <div align="left">  

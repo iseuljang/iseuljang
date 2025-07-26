@@ -44,7 +44,10 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://img.shields.io/badge/Java-D90C0F?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
+
+  <img src="https://img.shields.io/badge/mssql-4479A1?style=for-the-badge&logo=mssql&logoColor=white"/>&nbsp
+ 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>&nbsp  
   <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>&nbsp  
